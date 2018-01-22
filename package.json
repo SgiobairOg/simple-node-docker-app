@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sgiobairog/simple-node-docker-app#readme",
   "dependencies": {
+    "eslint": "^4.16.0",
     "express": "^4.16.2"
   }
 }
