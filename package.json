@@ -1,0 +1,23 @@
+{
+  "name": "simple-node-docker-app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgiobairog/simple-node-docker-app.git"
+  },
+  "author": "Jason Wilson <jason@wilsons.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgiobairog/simple-node-docker-app/issues"
+  },
+  "homepage": "https://github.com/sgiobairog/simple-node-docker-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
