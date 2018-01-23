@@ -6,7 +6,7 @@ WORKDIR /usr/src/app
 # Install app deps
 COPY package*.json ./
 
-RUN npm Install
+RUN npm install
 
 # Bundle up
 COPY . .
